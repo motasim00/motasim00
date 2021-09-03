@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @motasim00
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project related to cloud computing
 - 📫 How to reach me motasimkhan8@gmail.com
